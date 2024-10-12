@@ -1,0 +1,4 @@
+*
+!.gitignore
+!alacritty/alacritty.toml
+!nvim/init.lua
